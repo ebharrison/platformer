@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ESlime
+comment1.params=jp\ x\ y\ cbController
+comment1.target=ESlime(javax.swing.JPanel,\ int,\ int,\ CombatantController)
+comment2.params=
+comment2.target=void\ speedUpRight()
+comment3.params=
+comment3.target=void\ speedUpLeft()
+comment4.params=
+comment4.target=void\ attackAnimations()
+comment5.params=
+comment5.target=void\ die()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7

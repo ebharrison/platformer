@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Animation
+comment1.params=go\ src\ numFrames
+comment1.target=Animation(GameObject,\ java.lang.String,\ int[])
+comment2.params=go\ src\ numFrames\ cycles
+comment2.target=Animation(GameObject,\ java.lang.String,\ int[],\ int)
+comment3.params=jp\ x\ y\ width\ height\ src\ numFrames\ cycles
+comment3.target=Animation(javax.swing.JPanel,\ int,\ int,\ int,\ int,\ java.lang.String,\ int[],\ int)
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=st
+comment6.target=void\ setMotionState(int)
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+comment8.params=g2d
+comment8.target=void\ drawFrame(java.awt.Graphics2D)
+numComments=9

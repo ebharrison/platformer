@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Background
+comment1.params=
+comment1.target=Background()
+comment2.params=units
+comment2.target=void\ moveDown(int)
+comment3.params=src
+comment3.target=void\ setImageSource(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getImageSource()
+comment5.params=
+comment5.target=int\ getY1()
+comment6.params=
+comment6.target=int\ getY2()
+comment7.params=
+comment7.target=int\ getWidth()
+comment8.params=
+comment8.target=int\ getHeight()
+numComments=9

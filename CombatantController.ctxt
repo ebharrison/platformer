@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CombatantController
+comment1.params=
+comment1.target=CombatantController()
+comment2.params=cb
+comment2.target=void\ addCombatant(Combatant)
+comment3.params=
+comment3.target=java.util.ArrayList\ getCombatants()
+comment4.params=cb
+comment4.target=void\ addFutureRemoval(Combatant)
+comment5.params=
+comment5.target=void\ removeRemovedCombatants()
+numComments=6

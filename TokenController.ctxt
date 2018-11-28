@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TokenController
+comment1.params=
+comment1.target=TokenController()
+comment2.params=t
+comment2.target=void\ addToken(Token)
+comment3.params=
+comment3.target=java.util.ArrayList\ getTokens()
+comment4.params=t
+comment4.target=void\ addFutureRemoval(Token)
+comment5.params=
+comment5.target=void\ removeRemovedTokens()
+numComments=6

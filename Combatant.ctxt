@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Combatant
+comment1.params=jp\ x\ y\ w\ h\ health\ damageDealt\ cbController
+comment1.target=Combatant(javax.swing.JPanel,\ int,\ int,\ int,\ int,\ int,\ int,\ CombatantController)
+comment10.params=combatants
+comment10.target=void\ attackDetection(java.util.ArrayList)
+comment2.params=
+comment2.target=CombatantController\ getCombatantController()
+comment3.params=
+comment3.target=boolean\ getAnimationOverride()
+comment4.params=animationOverride
+comment4.target=void\ setAnimationOverride(boolean)
+comment5.params=
+comment5.target=int\ getHealth()
+comment6.params=
+comment6.target=int\ getDamageDealt()
+comment7.params=damageDealt\ direction
+comment7.target=void\ takeDamage(int,\ int)
+comment8.params=
+comment8.target=void\ attackAnimations()
+comment9.params=
+comment9.target=void\ die()
+numComments=11

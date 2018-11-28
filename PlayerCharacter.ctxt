@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PlayerCharacter
+comment1.params=jp\ x\ y\ cbController\ singleFrame
+comment1.target=PlayerCharacter(javax.swing.JPanel,\ int,\ int,\ CombatantController,\ boolean)
+comment2.params=
+comment2.target=void\ attackAnimations()
+comment3.params=
+comment3.target=void\ die()
+comment4.params=
+comment4.target=void\ jump()
+comment5.params=
+comment5.target=void\ speedUpRight()
+comment6.params=
+comment6.target=void\ speedUpLeft()
+comment7.params=
+comment7.target=void\ slowX()
+comment8.params=g
+comment8.target=void\ draw(java.awt.Graphics)
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=jp\ x\ y
+comment1.target=Token(javax.swing.JPanel,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRadius()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4

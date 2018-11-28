@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Platform
+comment1.params=jp\ x\ y\ width\ height
+comment1.target=Platform(javax.swing.JPanel,\ int,\ int,\ int,\ int)
+comment2.params=jp\ x\ y\ width\ height\ type
+comment2.target=Platform(javax.swing.JPanel,\ int,\ int,\ int,\ int,\ PlatformType)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=PlatformType\ getType()
+numComments=5

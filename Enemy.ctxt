@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=jp\ x\ y\ w\ h\ health\ damageDealt\ attackCooldown\ cbController
+comment1.target=Enemy(javax.swing.JPanel,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ CombatantController)
+comment2.params=
+comment2.target=void\ basicAI()
+comment3.params=gameObjects
+comment3.target=void\ moveH(java.util.ArrayList)
+comment4.params=go\ src\ numFrames\ cycles
+comment4.target=void\ createAnimation(GameObject,\ java.lang.String,\ int[],\ int)
+comment5.params=
+comment5.target=Animation\ getAnimation()
+comment6.params=enemyMotionState
+comment6.target=void\ setAnimation(int)
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BoxCollider
+comment1.params=go\ x\ y\ width\ height
+comment1.target=BoxCollider(GameObject,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=go
+comment5.target=boolean\ hit(GameObject)
+comment6.params=go
+comment6.target=boolean\ hitTrigger(GameObject)
+comment7.params=c
+comment7.target=boolean\ hit(Collider)
+comment8.params=bc
+comment8.target=boolean\ hit(BoxCollider)
+comment9.params=cc
+comment9.target=boolean\ hit(CircleCollider)
+numComments=10
